@@ -29,6 +29,7 @@ int main()
     Complex c1, c2;
     c1.input();
     c2.input();
+    // c1.add();
     c1.show();
     c2.show();
 
